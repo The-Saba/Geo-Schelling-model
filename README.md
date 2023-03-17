@@ -5,7 +5,7 @@ The aim of the project is to implement a data-augmented version of the MESA-geo 
 The model does not to start from a randomize initial situation but from a real one, simulating the segregation of the census tract of New York. 
 The population data used are from 2010 and the two group analyzed are Americans and Forgeiners.
 
-The first part of the project is dedicated on collecting the data and creating a file to use for the simulation./
+The first part of the project is dedicated on collecting the data and creating a file to use for the simulation.  
 The MESA-geo model is an agent based model and this type has two agent class, RegionAgents, in our case the census tracts, and the PersonAgents, that move between the Regions. 
 
 #### Data sources
