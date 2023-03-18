@@ -15,12 +15,10 @@ Due to the heavily unbalanced class (72% Americans, 28% Forgeiners), the model w
 ### Project 
 Please look the [project](https://github.com/The-Saba/Geospatial-project/blob/main/Data-driven%20Geo%20Schelling%20model.ipynb) for further details.
 
+It was done for the Geospatial Analytics exam of the [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) master's degree course of the University of Pisa.
 ### Data sources
 * Census info - [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Census+Tracts) (year 2010, the state of New York, the County of New York)
 * Population info - [OpportunityInsights](https://opportunityinsights.org/wp-content/uploads/2018/10/tract_covariates.csv "Direct download")
 
 ### Base version of the model
 * Mesa-geo model - [example](https://github.com/projectmesa/mesa-geo/tree/main/examples/geo_schelling_points)
-
- 
-This project was done for the Geospatial Analytics exam of the [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) master's degree course of the University of Pisa.
