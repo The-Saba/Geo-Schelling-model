@@ -6,7 +6,9 @@ The model does not to start from a randomize initial situation but from a real o
 The population data used are from 2010 and the two group analyzed are Americans and Forgeiners.
 
 The first part of the project is dedicated on collecting the data and creating a file to use for the simulation.  
-The MESA-geo model is an agent based model and this type has two agent class, RegionAgents, in our case the census tracts, and the PersonAgents, that move between the Regions. 
+The MESA-geo model is an agent based model with two agent class, RegionAgents, in our case the Census tracts, and the PersonAgents, that move between the Regions. 
+
+The model was modified to take directly from the file the exact number of resident in each tract. During the preparation phase, where the model's agent are added, at each PersonAgent is assigned a color (red for Forgeiners and blue for Americans)
 
 #### Data sources
 * Census info - [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Census+Tracts) (year 2010, the state of New York, the County of New York)
