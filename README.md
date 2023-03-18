@@ -12,7 +12,8 @@ The model was modified to take directly from the file the exact number of reside
 
 Due to the heavily unbalanced class (72% Americans, 28% Forgeiners), the model with a similarity threshold around 50% is very slow, but this problem disappears with a more balanced class.
 
-* [Project](https://github.com/The-Saba/Geospatial-project/blob/main/Data-driven%20Geo%20Schelling%20model.ipynb)
+### Project 
+Please look the [project](https://github.com/The-Saba/Geospatial-project/blob/main/Data-driven%20Geo%20Schelling%20model.ipynb) for further details.
 
 ### Data sources
 * Census info - [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Census+Tracts) (year 2010, the state of New York, the County of New York)
