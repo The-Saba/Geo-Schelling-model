@@ -21,3 +21,6 @@ Please look the [project](https://github.com/The-Saba/Geospatial-project/blob/ma
 
 ### Base version of the model
 * Mesa-geo model - [example](https://github.com/projectmesa/mesa-geo/tree/main/examples/geo_schelling_points)
+
+ 
+This project was done for the Geospatial Analytics exam of the [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) master's degree course of the University of Pisa.
