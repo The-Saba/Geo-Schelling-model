@@ -8,7 +8,7 @@ The population data used are from 2010 and the two groups analyzed are Americans
 The first part of the project is dedicated to collecting the data and creating a file to use for the simulation.  
 The MESA-geo model is an agent-based model with two agent classes, RegionAgents, in our case the Census tracts, and the PersonAgents, that move between the Regions. 
 
-The model was modified to take directly from the file the exact number of residents in each tract. During the preparation phase, where the model's agents are added, each PersonAgent is assigned a colour, red if is a Forgeiner or blue if is an American. Similar for RegionAgents, if inside them there are more American, the Region is blue, red otherwise. A visualization class was also added to have the possibility to visualize directly on the notebook the execution of the model.
+<p align="justify">The model was modified to take directly from the file the exact number of residents in each tract. During the preparation phase, where the model's agents are added, each PersonAgent is assigned a colour, red if is a Forgeiner or blue if is an American. Similar for RegionAgents, if inside them there are more American, the Region is blue, red otherwise. A visualization class was also added to have the possibility to visualize directly on the notebook the execution of the model.</p>
 
 Due to the heavily unbalanced class (72% Americans, 28% Forgeiners), the model with a similarity threshold around 50% is very slow, but this problem disappears with a more balanced class.
 
