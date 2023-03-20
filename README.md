@@ -1,4 +1,4 @@
-# Geospatial-project
+# Data-driven Geo Schelling model
 
 The project aims to implement a data-augmented version of the [MESA-geo](https://mesa-geo.readthedocs.io/en/latest/tutorials/intro_tutorial.html) model.
 
