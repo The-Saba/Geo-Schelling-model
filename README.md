@@ -1,6 +1,6 @@
 # Geospatial-project
 
-The project aims to implement a data-augmented version of the [MESA-geo](https://mesa-geo.readthedocs.io/en/latest/tutorials/intro_tutorial.html) model. 
+The project aims to implement a data-augmented version of the [MESA-geo](https://mesa-geo.readthedocs.io/en/latest/tutorials/intro_tutorial.html) model.
 
 <p align="justify">The model does not start from a random initial situation but from a real one, simulating the segregation of the census tract of New York. 
 The population data used are from 2010 and the two groups analyzed are Americans and Forgeiners.</p>
@@ -13,11 +13,12 @@ The MESA-geo model is an agent-based model with two agent classes, RegionAgents,
 <p align="justify">Due to the heavily unbalanced class (72% Americans, 28% Forgeiners), the model with a similarity threshold around 50% is very slow, but this problem disappears with a more balanced class.</p>
 
 ### Project 
-Please look the [project](https://github.com/The-Saba/Geospatial-project/blob/main/Data-driven%20Geo%20Schelling%20model.ipynb) for further details.
+Please look at the [project](https://github.com/The-Saba/Geospatial-project/blob/main/Data-driven%20Geo%20Schelling%20model.ipynb) for further details.
 
-It was done for the Geospatial Analytics exam of the [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) master's degree course of the University of Pisa.
+It was done for the Geospatial Analytics exam of the [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) master's degree course at the University of Pisa.
+
 ### Data sources
-* Census info - [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Census+Tracts) (year 2010, the state of New York, the County of New York)
+* Census info - [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Census+Tracts) (year 2010, State of New York, County of New York)
 * Population info - [OpportunityInsights](https://opportunityinsights.org/wp-content/uploads/2018/10/tract_covariates.csv "Direct download")
 
 ### Base version of the model
