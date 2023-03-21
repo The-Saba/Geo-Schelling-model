@@ -13,7 +13,7 @@ The MESA-geo model is an agent-based model with two agent classes, RegionAgents,
 <p align="justify">Due to the heavily unbalanced class (72% Americans, 28% Forgeiners), the model with a similarity threshold around 50% is very slow, but this problem disappears with a more balanced classes.</p>
 
 ### Project 
-Please look at the [project](https://github.com/The-Saba/Geo-Schelling-model/blob/main/Data-driven%20Geo%20Schelling%20model.ipynb) for further details.
+Please see the [project](https://github.com/The-Saba/Geo-Schelling-model/blob/main/Data-driven%20Geo%20Schelling%20model.ipynb) for further details.
 
 The project is for the Geospatial Analytics exam of the [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) master's degree course at the University of Pisa.
 
