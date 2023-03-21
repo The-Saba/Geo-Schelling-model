@@ -15,7 +15,7 @@ The MESA-geo model is an agent-based model with two agent classes, RegionAgents,
 ### Project 
 Please see the [project](https://github.com/The-Saba/Geo-Schelling-model/blob/main/Data-driven%20Geo%20Schelling%20model.ipynb) for further details.
 
-The project is for the Geospatial Analytics exam of the [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) master's degree course at the University of Pisa.
+The project is part of the Geospatial Analytics exam of the [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) master's degree course at the University of Pisa.
 
 ### Data sources
 * Census info - [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Census+Tracts) (year 2010, State of New York, County of New York)
